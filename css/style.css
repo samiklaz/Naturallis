@@ -1,0 +1,15 @@
+.navigation__header {background-color: whitesmoke; color: darkblue; padding: 1rem 0;}
+.navigation__header h1  {text-align: center;}
+
+.navigation__tabs {background-color: lightgray; padding: 0.5rem 2rem; color: darkblue; display: flex; flex-direction: row; justify-content: space-between; align-items: center;}
+
+.navigation__tabs > h5 {font-weight: bold;}
+
+.navigation__list {  }
+.navigation__list li {display: inline-block; list-style: none; padding: 0.8rem 0.4rem 0 0.4rem;}
+.navigation__list li > a {font-weight: 600; color: darkblue; text-decoration: none; font-size: 0.8rem !important;}
+.navigation__list li > a:hover {font-weight: bold;}
+.footer__menu {margin-top: 1rem; display: flex; align-items: center; justify-content: space-between;}
+.footer__menu > ul {margin-left: -4rem;}
+.footer__menu > ul > li {display: inline-block; list-style: none; padding: 0 2rem;}
+.footer__menu > ul > li a {color: lightgray; text-decoration: none;}
